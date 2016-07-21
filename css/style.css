@@ -4,6 +4,9 @@
 .exp {
   font-size: 2vw !important;
 }
+.toplinks {
+  font-size: 1.5vw !important;
+}
 
 @media (max-width: 515px) {
   .toplinks {
@@ -18,6 +21,10 @@
   .view {
     font-size: 1.9vw !important;
   }
+  .toplinks {
+    font-size: 2vw !important;
+  }
+
 }
 
 /*.greyTextBox {
