@@ -1,0 +1,198 @@
+.view {
+  font-size: 1.4vw;
+}
+.exp {
+  font-size: 2vw !important;
+}
+
+@media (max-width: 515px) {
+  .toplinks {
+    font-size: 2vw !important;
+  }
+  .view {
+    font-size: 10vw !important;
+  }
+}
+
+@media (max-width: 888px) {
+  .view {
+    font-size: 1.9vw !important;
+  }
+}
+
+/*.greyTextBox {
+  padding: 10px !important;
+  line-height: 25px !important;
+  font-size: 16px !important;
+}
+.mission {
+  padding: 20px !important;
+  font-size: 18px !important;
+}
+
+
+
+@media (max-width: 1228px) {
+  body {
+    background-color: lightgreen;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 16px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 17px !important;
+  }
+}
+
+@media (max-width: 1031px) {
+  body {
+    background-color: lightblue;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 16px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 16px !important;
+  }
+}
+
+@media (max-width: 850px) {
+  body {
+    background-color: lightgreen;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 14px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 15px !important;
+  }
+}
+
+@media (max-width: 805px) {
+  body {
+    background-color: lightyellow;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 13px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 15px !important;
+  }
+}
+
+@media (max-width: 705px) {
+  body {
+    background-color: lightgreen;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 13px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 660px) {
+  body {
+    background-color: lightyellow;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 12px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 13px !important;
+  }
+}
+@media (max-width: 618px) {
+  body {
+    background-color: lightgreen;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 11px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 13px !important;
+  }
+}
+
+@media (max-width: 545px) {
+  body {
+    background-color: lightyellow;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 10px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 12px !important;
+  }
+}
+
+@media (max-width: 515px) {
+  body {
+    background-color: lightgreen;
+  }
+  .greyTextBox {
+    padding: 10px !important;
+    line-height: 25px !important;
+    font-size: 9px !important;
+  }
+  .mission {
+    padding: 20px !important;
+    font-size: 11px !important;
+  }
+}
+@media (max-width: 450px) {
+  body {
+    background-color: lightyellow;
+  }
+  .greyTextBox {
+    line-height: 19px !important;
+    font-size: 8px !important;
+  }
+  .mission {
+    font-size: 10px !important;
+  }
+  .toplinks {
+    font-size: 9px !important;
+  }
+}
+
+@media (max-width: 430px) {
+  body {
+    background-color: lightgreen;
+  }
+  .greyTextBox {
+    line-height: 18px !important;
+    font-size: 7px !important;
+  }
+  .mission {
+    font-size: 9px !important;
+  }
+  .toplinks {
+    font-size: 9px !important;
+  }
+}*/
